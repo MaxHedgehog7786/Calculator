@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="digit">Введите число</string>
+    <string name="sum">Суммировать</string>
+    <string name="minus">Вычесть</string>
+    <string name="umn">Умножить</string>
+    <string name="del">Разделить</string>
+</resources>
